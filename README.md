@@ -13,6 +13,7 @@ I'm passionate about coding, learning new technologies, and building cool projec
 
 ## 🌱 Currently Learning
 
+- Agentic Design Patterns
 - Advanced JavaScript & TypeScript
 - Full-stack web development
 - Data visualization & UI/UX best practices
