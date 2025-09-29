@@ -6,7 +6,6 @@ I'm passionate about coding, learning new technologies, and building cool projec
 ## 🛠️ Projects
 
 - [thunders_stats_dashboard](https://github.com/habichuela13/thunders_stats_dashboard): A dashboard project for visualizing and analyzing stats.
-- [onda-music](https://github.com/habichuela13/onda-music): An app to discover and enjoy music.
 - [Vehicles_of_Interest](https://github.com/habichuela13/Vehicles_of_Interest): Explore interesting vehicles and related data.
 - [video-navigation-app](https://github.com/habichuela13/video-navigation-app): A project focused on video navigation features.
 - [umgc/2025_fall](https://github.com/umgc/2025_fall): Coursework and resources for UMGC Fall 2025.
