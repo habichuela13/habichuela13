@@ -1,10 +1,11 @@
 # 👋 Hi, I'm habichuela13!
 
 Welcome to my GitHub profile!  
-I'm passionate about coding, learning new technologies, and building cool projects. Here you'll find a collection of my work, including music-related apps, educational resources, and more.
+I'm passionate about coding, learning new technologies, and building cool projects. Here you'll find a collection of my work, including music-related apps, educational resources, dashboards, and more.
 
 ## 🛠️ Projects
 
+- [thunders_stats_dashboard](https://github.com/habichuela13/thunders_stats_dashboard): A dashboard project for visualizing and analyzing stats.
 - [onda-music](https://github.com/habichuela13/onda-music): An app to discover and enjoy music.
 - [Vehicles_of_Interest](https://github.com/habichuela13/Vehicles_of_Interest): Explore interesting vehicles and related data.
 - [video-navigation-app](https://github.com/habichuela13/video-navigation-app): A project focused on video navigation features.
@@ -13,10 +14,15 @@ I'm passionate about coding, learning new technologies, and building cool projec
 
 ## 🌱 Currently Learning
 
-- Agentic Design Patterns
 - Advanced JavaScript & TypeScript
 - Full-stack web development
 - Data visualization & UI/UX best practices
+
+## 💬 Let's Connect!
+
+- 💼 [LinkedIn](#) (add your URL!)
+- 🐦 [Twitter](#) (add your handle!)
+- 📫 Reach me at: (your email here)
 
 ---
 
