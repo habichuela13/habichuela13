@@ -21,12 +21,6 @@ I'm passionate about coding, learning new technologies, and building cool projec
 - Full-stack web development
 - Data visualization & UI/UX best practices
 
-## 💬 Let's Connect!
-
-- 💼 [LinkedIn](#) (add your URL!)
-- 🐦 [Twitter](#) (add your handle!)
-- 📫 Reach me at: (your email here)
-
 ---
 
 Thanks for stopping by! 🚀  
