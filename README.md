@@ -15,6 +15,8 @@ I'm passionate about coding, learning new technologies, and building cool projec
 
 ## 🌱 Currently Learning
 
+- Machine Learniing
+- AI Development
 - Advanced JavaScript & TypeScript
 - Full-stack web development
 - Data visualization & UI/UX best practices
