@@ -11,7 +11,6 @@ These are the projects I have worked on most recently. Some are private and stil
 - **TurtleCast** *(private/in development)* — A hyperlocal weather-intelligence platform combining regional forecast data with ESP32/BME280 and LoRa sensor readings. It includes FastAPI services, a Streamlit dashboard, PostgreSQL, MQTT, firmware, and a developing rain-prediction pipeline.
 - [**Passionate Landscaping & Construction**](https://passionatelandscapingco.com) *(private source repository; live client site)* — A responsive business website with service presentation, bilingual content, a production-ready quote workflow, and Google Sheets lead capture.
 - [**Pacheco Technologies**](https://pachecotechnologies.com) *(company)* — My company and the home for my software, product, research, and client projects, including Covera, Yrdline, TurtleCast, Willow, and other work across full-stack development, desktop software, AI, data, and connected hardware.
-- **Willow Smart Ring** *(private/research and development)* — A safety-oriented wearable concept combining health sensing with a breakaway silicone ring design. The project covers hardware architecture, validation planning, safety requirements, firmware direction, product documentation, and regulatory positioning.
 - **DesktopHub** *(private/in development)* — A Raspberry Pi-focused home media and control hub with a React/TypeScript interface, Express services, kiosk and window modes, audio-device management, local voice control, and streaming-service workflows.
 
 ## 🧪 AI, machine learning, and product experiments
@@ -19,7 +18,6 @@ These are the projects I have worked on most recently. Some are private and stil
 - [**AI Development**](https://github.com/habichuela13/ai_development) — A multi-language workspace for comparing and integrating OpenAI, Anthropic, and Google Gemini across Python, Node.js, and C++, including shared configuration, provider-selection patterns, usage tracking, and cost controls.
 - **AI Development Test** *(private lab)* — A focused C++ experimentation repository for incorporating AI capabilities into software-development workflows.
 - **ML Data** *(private learning workspace)* — Hands-on machine-learning projects covering data inspection, leakage-safe preprocessing, feature engineering, classification, evaluation, and reproducible notebook workflows.
-- **Onda Music** *(private prototype)* — An artist-first music-platform concept exploring transparent revenue sharing, discovery, payments, security, and a modern Next.js/TypeScript product experience.
 
 ## 📚 Public portfolio projects
 
