@@ -6,7 +6,7 @@ I'm a software developer and product builder working across full-stack applicati
 
 These are the projects I have worked on most recently. Some are private and still in active development.
 
-- **Yrdline** *(private/in development)* — A modern marching-band drill platform for designing, distributing, practicing, and tracking field shows. The system combines a React and TypeScript web editor, real-time collaboration, 2D/3D visualization, a Node.js API, PostgreSQL, and mobile performer workflows.
+- [**Yrdline**](https://yrdline.com) *(private source repository; live app)* — A modern marching-band drill platform for designing, distributing, practicing, and tracking field shows. The system combines a React and TypeScript web editor, real-time collaboration, 2D/3D visualization, a Node.js API, PostgreSQL, and mobile performer workflows.
 - **Covera** *(private/in development)* — A secure, deterministic desktop application that converts supported PDF technical documents into structured XML within the customer's environment. It uses local processing, structured review, validation, reporting, and an architecture designed for future publishing and CCMS integrations.
 - **TurtleCast** *(private/in development)* — A hyperlocal weather-intelligence platform combining regional forecast data with ESP32/BME280 and LoRa sensor readings. It includes FastAPI services, a Streamlit dashboard, PostgreSQL, MQTT, firmware, and a developing rain-prediction pipeline.
 - **Passionate Landscaping & Construction** *(private/client project)* — A responsive React and TypeScript business website with service presentation, bilingual content, a production-ready quote workflow, and Google Sheets lead capture.
